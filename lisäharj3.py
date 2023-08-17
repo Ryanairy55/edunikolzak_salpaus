@@ -1,6 +1,6 @@
 print("Kuinka monta tikku-ukkoa tulostetaan?")
 num = int(input())
-string1 = "    "
+string1 = ""
 string2 = ""
 string3 = ""
 i = 1
