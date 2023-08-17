@@ -1,0 +1,10 @@
+print("Anna x1")
+x1 = int(input())
+print("Anna y1")
+y1 = int(input())
+print("Anna x2")
+x2 = int(input())
+print("Anna y2")
+y2 = int(input())
+pituus = ((x2-x1)**2+(y2-y1)**2)**0.5
+print(pituus)
