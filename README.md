@@ -3,4 +3,4 @@ harjoitus1.py on ohjelma, joka kysyy käyttäjältä syötteenä kolme lukua (a,
 
 ![image](https://github.com/Ryanairy55/edunikolzak_salpaus/assets/62998707/d09512ee-275d-4e21-8855-d0e96a512dd4)
 
-Reposta voi lisäksi löytää lisäharjoitukset: lisäharj1.py, lisäharj2.py ja lisäharj3.py
+Reposta voi lisäksi löytää lisäharjoitukset: 1lisäharj1.py, 1lisäharj2.py ja 1lisäharj3.py
