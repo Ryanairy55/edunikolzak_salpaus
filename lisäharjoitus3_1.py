@@ -1,3 +1,5 @@
+# Tämä ohjelma tarkistaa, jos merkkijonot ovat
+# toistensa käänteisjonoja
 def lh31():
     eka = input("Anna eka merkkijono (4 merkkiä): ")
     if len(eka) != 4:
