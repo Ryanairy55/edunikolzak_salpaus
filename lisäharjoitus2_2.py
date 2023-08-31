@@ -1,3 +1,4 @@
+# Tämä ohjelma printaa 5-merkkijonen jonon väärinpäin
 allowedlength = 5
 print("Anna "+str(allowedlength)+"-merkkijonen jono")
 jono = input()
