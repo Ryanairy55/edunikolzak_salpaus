@@ -1,4 +1,4 @@
-def asdasd():
+def lh31():
     eka = input("Anna eka merkkijono (4 merkkiä): ")
     if len(eka) != 4:
         return "Eka merkkijonossa ei ole 4 merkkiä."
@@ -15,4 +15,4 @@ def asdasd():
             return "Merkkijonot eivät ole toistensa käänteisjonoja."
         if a == 4:
             return "Merkkijonot ovat toistensa käänteisjonoja!"
-print(asdasd())
+print(lh31())
