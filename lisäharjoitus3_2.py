@@ -1,3 +1,6 @@
+# Tämä ohjelma tarkistaa lämpötilaa ja ilmankosteusta tomaatille
+# Sopiva lämpötila on 22-25 Celsius astetta ja
+# sopiva ilmankosteus on 60-80 prosenttia
 def lh32():
     lt = int(input("Anna lämpötila (C): "))
     ltstatus = ""
