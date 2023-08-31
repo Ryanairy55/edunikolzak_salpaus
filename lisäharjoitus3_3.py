@@ -1,3 +1,7 @@
+# Tämä ohjelma pyytää käyttäjää syöttämään luvuy a, b ja c
+# ja kertoo näiden perusteella onko yhtälöllä
+# x=(-b+-(b**2-4*a*c)**0.5)/(2*a)
+# nolla, yksi vai kaksi ratkaisua
 a = int(input("a: "))
 b = int(input("b: "))
 c = int(input("c: "))
