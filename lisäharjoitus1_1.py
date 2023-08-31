@@ -1,3 +1,6 @@
+# Tämä ohjelma kysyy käyttäjältä neljä lukua (x1, y1,x2, y2)
+# ja laskee niiden perusteella pisteiden (x1, y2) ja (x2, y2)
+# välisen janan pituuden kaavalla
 print("Anna x1")
 x1 = int(input())
 print("Anna y1")
