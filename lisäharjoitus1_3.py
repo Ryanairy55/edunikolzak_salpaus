@@ -1,3 +1,4 @@
+# Tämä ohjelma tulostaa annetun luvun mukainen tikku-ukkoja
 print("Kuinka monta tikku-ukkoa tulostetaan?")
 num = int(input())
 string1 = ""
