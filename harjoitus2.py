@@ -1,3 +1,5 @@
+# Tämä ohjelma pyytää käyttäjältä 2 merkkijonoa a ja b
+# ja etsii b:n toisen esiintyämän merkkijonosta a
 print("Anna merkkijono: ")
 merkkijono = str(input())
 print("Anna alijono: ")
