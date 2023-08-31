@@ -1,4 +1,4 @@
-def asdasd():
+def lh32():
     lt = int(input("Anna lämpötila (C): "))
     ltstatus = ""
     ik = int(input("Anna ilmankosteus (%): "))
@@ -16,4 +16,4 @@ def asdasd():
     else:
         ikstatus = "liian korkea"
     return "Lämpötila on "+ltstatus+" ja ilmankosteus on "+ikstatus+"."
-print(asdasd())
+print(lh32())
