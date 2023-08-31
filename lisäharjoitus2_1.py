@@ -1,3 +1,4 @@
+# Tämä ohjelma löytää toisen sanan lauseesta
 print("Anna lause: ")
 lause = str(input())
 raja1 = lause.find(" ")
