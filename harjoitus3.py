@@ -1,3 +1,4 @@
+# Tämä ohjelma laskee 4 merkkiä pitkän binääriluvusta desimaaliluvun
 bl = str(input("Anna 4-bittinen binääriluku: "))
 luku = 0
 if len(bl) != 4:
