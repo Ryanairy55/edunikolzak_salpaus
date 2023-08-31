@@ -1,3 +1,4 @@
+# Tämä ohjelma laskee juuret kaavalla
 print("Anna a")
 a = int(input())
 print("Anna b")
