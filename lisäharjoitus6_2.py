@@ -1,3 +1,6 @@
+# Ohjelmassa on funktio tarkistaLotto(pelinumerot, oikeatNumerot), joka saa parametrikseen
+# kaksi listaa ja palauttaa tiedon siitä, kuinka monta oikeaa numeroa pelinumeroista löytyy
+
 pelinumerot = [1,4,7,11,22,23,32]
 oikeat = [1,6,11,22,29,33,35]
 def tarkistaLotto(pelinumerot, oikeat):
